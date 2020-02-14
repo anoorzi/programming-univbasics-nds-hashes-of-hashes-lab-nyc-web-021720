@@ -44,9 +44,11 @@ def naming_system
 
   data = {
     sub_category: {
-        label: "Phylum",
-        sub_category: {
+        label: "Phylum"
+      },
+    sub_category: {
           label: "Class"
+      }
 
   }
 end
